@@ -1,0 +1,30 @@
+So you found my to-do list for this plugin? Well, hope you enjoy the little sneak preview of what's coming. 
+Missing some features you might like? Drop me a line at support@adtribes.io and we might just add it to the list. Thanks!
+
+Urgent issues:
+- Add product title manipulation feature
+
+Plugin functionalities:
+- Add support for Google Product Review feeds
+- Add support for Google Actions: https://support.google.com/merchants/answer/7378924
+- Add possibility to create OR rules
+- Change root XML node for custom feeds
+
+
+OTHER ISSUES:
+- Add a CSV upload feature (or UI) for filling the woosea attributes, both for simple and variation products
+- Add hierarchy category dropdown in filters/rules (exclude on identical subcategory names removes all)
+- Build a better WP Cron check, current one is not good enough
+- Add support for Google Shopping product review feeds - https://developers.google.com/product-review-feeds/
+- Remarketing tags not yet on thank-you purchase page
+- Incomplete remarketing tag on cart-page
+- Tracking & conversion
+	- dynamic dropdowns in GA / tracking page for values
+- Add support for Composite products: https://woocommerce.com/products/composite-products/ & https://yithemes.com/themes/plugins/yith-woocommerce-composite-products/
+- Add support for Bundled products: https://woocommerce.com/products/product-bundles/
+- Add more complex rules based on more than just 1 condition (AND)
+- Add localisation (at least for nl_NL and nl_BE / fr_BE) - https://codex.wordpress.org/I18n_for_WordPress_Developers#Translating_Plugins_and_Themes
+- AMAZON integration:
+	- requires a professional seller account, 39 dollar a month, before being able to create a developer account
+	- only than we can use their AWS service needed to connect our plugin
+- eBay integration

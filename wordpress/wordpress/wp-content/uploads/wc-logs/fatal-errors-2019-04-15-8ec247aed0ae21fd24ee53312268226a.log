@@ -1,0 +1,56 @@
+2019-04-15T19:25:01+00:00 CRITICAL Uncaught TypeError: Argument 5 passed to WCPayPalPlus\WC\Payment\PaymentData::__construct() must be an instance of Inpsyde\Lib\PayPal\Rest\ApiContext, null given, called in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php on line 664 and defined in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php:64
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(664): WCPayPalPlus\WC\Payment\PaymentData->__construct('http://localhos...', 'http://localhos...', 'http://localhos...', '', NULL)
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(635): WCPayPalPlus\WC\PayPalPlusGateway->paymentData()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(590): WCPayPalPlus\WC\PayPalPlusGateway->paymentObject()
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\w w C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php w linii 64
+
+2019-04-15T19:25:06+00:00 CRITICAL Uncaught TypeError: Argument 5 passed to WCPayPalPlus\WC\Payment\PaymentData::__construct() must be an instance of Inpsyde\Lib\PayPal\Rest\ApiContext, null given, called in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php on line 664 and defined in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php:64
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(664): WCPayPalPlus\WC\Payment\PaymentData->__construct('http://localhos...', 'http://localhos...', 'http://localhos...', '', NULL)
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(635): WCPayPalPlus\WC\PayPalPlusGateway->paymentData()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(590): WCPayPalPlus\WC\PayPalPlusGateway->paymentObject()
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\w w C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php w linii 64
+
+2019-04-15T19:25:30+00:00 CRITICAL Uncaught TypeError: Argument 5 passed to WCPayPalPlus\WC\Payment\PaymentData::__construct() must be an instance of Inpsyde\Lib\PayPal\Rest\ApiContext, null given, called in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php on line 664 and defined in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php:64
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(664): WCPayPalPlus\WC\Payment\PaymentData->__construct('http://localhos...', 'http://localhos...', 'http://localhos...', '', NULL)
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(635): WCPayPalPlus\WC\PayPalPlusGateway->paymentData()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(590): WCPayPalPlus\WC\PayPalPlusGateway->paymentObject()
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\w w C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php w linii 64
+
+2019-04-15T19:25:53+00:00 CRITICAL Uncaught TypeError: Argument 5 passed to WCPayPalPlus\WC\Payment\PaymentData::__construct() must be an instance of Inpsyde\Lib\PayPal\Rest\ApiContext, null given, called in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php on line 664 and defined in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php:64
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(664): WCPayPalPlus\WC\Payment\PaymentData->__construct('http://localhos...', 'http://localhos...', 'http://localhos...', '', NULL)
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(635): WCPayPalPlus\WC\PayPalPlusGateway->paymentData()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(590): WCPayPalPlus\WC\PayPalPlusGateway->paymentObject()
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\w w C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php w linii 64
+
+2019-04-15T19:26:11+00:00 CRITICAL Uncaught TypeError: Argument 5 passed to WCPayPalPlus\WC\Payment\PaymentData::__construct() must be an instance of Inpsyde\Lib\PayPal\Rest\ApiContext, null given, called in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php on line 664 and defined in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php:64
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(664): WCPayPalPlus\WC\Payment\PaymentData->__construct('http://localhos...', 'http://localhos...', 'http://localhos...', '', NULL)
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(635): WCPayPalPlus\WC\PayPalPlusGateway->paymentData()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(590): WCPayPalPlus\WC\PayPalPlusGateway->paymentObject()
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\w w C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php w linii 64
+
+2019-04-15T19:26:16+00:00 CRITICAL Uncaught TypeError: Argument 5 passed to WCPayPalPlus\WC\Payment\PaymentData::__construct() must be an instance of Inpsyde\Lib\PayPal\Rest\ApiContext, null given, called in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php on line 664 and defined in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php:64
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(664): WCPayPalPlus\WC\Payment\PaymentData->__construct('http://localhos...', 'http://localhos...', 'http://localhos...', '', NULL)
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(635): WCPayPalPlus\WC\PayPalPlusGateway->paymentData()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(590): WCPayPalPlus\WC\PayPalPlusGateway->paymentObject()
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\w w C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php w linii 64
+
+2019-04-15T19:26:22+00:00 CRITICAL Uncaught TypeError: Argument 5 passed to WCPayPalPlus\WC\Payment\PaymentData::__construct() must be an instance of Inpsyde\Lib\PayPal\Rest\ApiContext, null given, called in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php on line 664 and defined in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php:64
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(664): WCPayPalPlus\WC\Payment\PaymentData->__construct('http://localhos...', 'http://localhos...', 'http://localhos...', '', NULL)
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(635): WCPayPalPlus\WC\PayPalPlusGateway->paymentData()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(590): WCPayPalPlus\WC\PayPalPlusGateway->paymentObject()
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\w w C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php w linii 64
+
+2019-04-15T19:28:17+00:00 CRITICAL Uncaught TypeError: Argument 5 passed to WCPayPalPlus\WC\Payment\PaymentData::__construct() must be an instance of Inpsyde\Lib\PayPal\Rest\ApiContext, null given, called in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php on line 664 and defined in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php:64
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(664): WCPayPalPlus\WC\Payment\PaymentData->__construct('http://localhos...', 'http://localhos...', 'http://localhos...', '', NULL)
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(635): WCPayPalPlus\WC\PayPalPlusGateway->paymentData()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\PayPalPlusGateway.php(590): WCPayPalPlus\WC\PayPalPlusGateway->paymentObject()
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\w w C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woo-paypalplus\src\WC\Payment\PaymentData.php w linii 64
+

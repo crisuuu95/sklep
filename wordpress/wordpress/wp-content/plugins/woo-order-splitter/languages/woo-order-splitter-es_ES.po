@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-02-20 08:36+0500\n"
+"PO-Revision-Date: 2019-02-20 08:50+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/functions.php:932
+msgid "Parent Order"
+msgstr "Orden de los padres"
+
+#: inc/functions.php:1058
+msgid "Cloned Order from"
+msgstr "Orden Clonada de"
+
+#: inc/functions.php:1411
+msgid "Order Cloned."
+msgstr "Orden Clonada."
+
+#: inc/functions.php:1420
+msgid "Order Splitted."
+msgstr "Orden dividida."
+
+#: inc/functions.php:1432
+msgid "Consolidation Failed an error has occurred."
+msgstr "Error de consolidación ha ocurrido un error."
+
+#: inc/functions.php:1439
+msgid "Duplication Failed an error has occurred."
+msgstr "Duplicación fallida se ha producido un error."
+
+#: inc/functions.php:1447
+msgid "Split Failed an error has occurred."
+msgstr "Falló la división se ha producido un error."
+
+#: inc/functions.php:1501 inc/wc_settings.php:3
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tiene permisos suficientes para acceder a esta página."
+
+#: inc/functions.php:1526 inc/wc_settings.php:22
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/functions.php:1533
+msgid "Go Premium"
+msgstr "Hazte Premium"
+
+#: inc/functions.php:1738
+msgid "Sorry, your nonce did not verify."
+msgstr "Lo siento, tu nonce no verificó."
+
+#: inc/functions.php:1974
+msgid "Are you sure, you want delete this rule?"
+msgstr "¿Estás seguro, quieres borrar esta regla?"
+
+#: inc/functions.php:2131
+msgid "Split"
+msgstr "División"
+
+#: inc/functions.php:2166 inc/functions.php:2204
+msgid "Split Order"
+msgstr "Orden dividida"
+
+#: inc/functions.php:2216
+msgid "Clone Order"
+msgstr "Orden Clon"
+
+#: inc/wc_settings.php:1
+msgid "No script kiddies please!"
+msgstr "No hay guiones para niños por favor!"
+
+#: inc/wc_settings.php:27
+msgid "Products"
+msgstr "Productos"
+
+#: inc/wc_settings.php:29
+msgid "Automatic Settings"
+msgstr "Ajustes automáticos"
+
+#: inc/wc_settings.php:32
+msgid "Rules"
+msgstr "Reglas"
+
+#: inc/wc_settings.php:33
+msgid "Order Meta Keys"
+msgstr "Teclas Meta de Orden"
+
+#: inc/wc_settings.php:36
+msgid "Troubleshoot"
+msgstr "Solucionar problemas"
+
+#: inc/wc_settings.php:43
+msgid "You need WooCommerce plugin to be installed and activated."
+msgstr "Necesitas el plugin WooCommerce para ser instalado y activado."
+
+#: inc/wc_settings.php:43
+msgid "Please"
+msgstr "Por favor"
+
+#: inc/wc_settings.php:43
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/wc_settings.php:43
+msgid "and"
+msgstr "y"
+
+#: inc/wc_settings.php:43
+msgid "or"
+msgstr "o"
+
+#: inc/wc_settings.php:43
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/wc_settings.php:43
+msgid "plugin to proceed"
+msgstr "complemento para continuar"
+
+#: inc/wc_settings.php:68
+msgid "Optional"
+msgstr "Opcional"
+
+#: inc/wc_settings.php:78
+msgid "Billing Details"
+msgstr "Detalles de facturación"
+
+#: inc/wc_settings.php:78 inc/wc_settings.php:84 inc/wc_settings.php:90
+#: inc/wc_settings.php:96
+msgid "On"
+msgstr "En"
+
+#: inc/wc_settings.php:78 inc/wc_settings.php:84 inc/wc_settings.php:90
+#: inc/wc_settings.php:96
+msgid "Off"
+msgstr "Apagado"
+
+#: inc/wc_settings.php:84
+msgid "Shipping Details"
+msgstr "Detalles de envío"
+
+#: inc/wc_settings.php:90
+msgid "Order Comments"
+msgstr "Ordenar Comentarios"
+
+#: inc/wc_settings.php:96
+msgid "\"Split From\" Column"
+msgstr "Columna \"Dividir De\""
+
+#: inc/wc_settings.php:128
+msgid ""
+"Order cloning is a good feature to test splitter so you can test it well."
+msgstr ""
+"La clonación de pedidos es una buena característica para probar el divisor "
+"para que pueda probarlo bien."
+
+#: inc/wc_settings.php:132
+msgid "Enable order duplication or cloning"
+msgstr "Habilitar la duplicación de pedidos o la clonación"
+
+#: inc/wc_settings.php:145
+msgid ""
+"Splitting order is a default feature so it is activated by default. You can "
+"deactivate it if need."
+msgstr ""
+"El orden de división es una característica predeterminada, por lo que se "
+"activa de forma predeterminada. Puedes desactivarlo si es necesario."
+
+#: inc/wc_settings.php:149
+msgid "Disable split order option"
+msgstr "Deshabilitar la opción de orden dividida"
+
+#: inc/wc_settings.php:163
+msgid ""
+"Order removal is an optional feature so once order has been splitted so "
+"original order should be removed."
+msgstr ""
+"La eliminación del pedido es una función opcional, por lo que una vez que el "
+"pedido se ha dividido, el pedido original debe eliminarse."
+
+#: inc/wc_settings.php:167
+msgid "Enable original order removal on splitting"
+msgstr "Habilitar la eliminación de la orden original en la división"
+
+#: inc/wc_settings.php:180
+msgid "Split into multiple orders if any item ordered in quantity."
+msgstr "Dividir en pedidos múltiples si cualquier artículo pedido en cantidad."
+
+#: inc/wc_settings.php:184
+msgid "Enable quantity based splitter"
+msgstr "Habilitar divisor basado en cantidad"
+
+#: inc/wc_settings.php:194
+msgid "Consolidated/Merged/Combined orders should be removed after action."
+msgstr ""
+"Las órdenes consolidadas / fusionadas / combinadas deben eliminarse después "
+"de la acción."
+
+#: inc/wc_settings.php:194
+msgid "Watch Tutorial"
+msgstr "Ver el tutorial"
+
+#: inc/wc_settings.php:198
+msgid "Enable original order removal on consolidation"
+msgstr "Habilitar la eliminación del pedido original en la consolidación"
+
+#: inc/wc_settings.php:207 inc/wc_settings.php:299
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: inc/wc_settings.php:222
+msgid "Select an automatic split action:"
+msgstr "Seleccione una acción de división automática:"
+
+#: inc/wc_settings.php:229
+msgid "Default"
+msgstr "Defecto"
+
+#: inc/wc_settings.php:229
+msgid ""
+"Perform split action if any of the following product items are found in the "
+"order. So every single item in the order will be added in a separate order."
+msgstr ""
+"Realice una acción dividida si alguno de los siguientes artículos del "
+"producto se encuentra en el pedido. Por lo tanto, cada artículo en el pedido "
+"se agregará en un orden separado."
+
+#: inc/wc_settings.php:231
+msgid "Exclusive"
+msgstr "Exclusivo"
+
+#: inc/wc_settings.php:231
+msgid ""
+"If any of the following product items are found in the order, separate them "
+"in new orders exclusively. So each selected item will be in a separate order."
+msgstr ""
+"Si alguno de los siguientes productos del producto se encuentra en el "
+"pedido, sepárelos exclusivamente en pedidos nuevos. Así que cada artículo "
+"seleccionado estará en un orden separado."
+
+#: inc/wc_settings.php:233
+msgid "Inclusive"
+msgstr "Inclusivo"
+
+#: inc/wc_settings.php:233
+msgid ""
+"If any of the following product items are found in the order, separate them "
+"in a new order inclusively. So selected items will be grouped in another "
+"order separately."
+msgstr ""
+"Si se encuentra alguno de los siguientes productos en el pedido, sepárelos "
+"en un nuevo pedido inclusive. Así, los elementos seleccionados se agruparán "
+"en otro orden por separado."
+
+#: inc/wc_settings.php:235
+msgid "Shredder"
+msgstr "Desfibradora"
+
+#: inc/wc_settings.php:235
+msgid ""
+"If any of the following product items are found in the order, group them in "
+"a new order. And other items will be separated."
+msgstr ""
+"Si alguno de los siguientes productos del producto se encuentra en el "
+"pedido, agrúpelos en un nuevo pedido. Y otros elementos serán separados."
+
+#: inc/wc_settings.php:241
+msgid "More automatic split actions"
+msgstr "Más acciones de división automática"
+
+#: inc/wc_settings.php:241
+msgid "Premium Feature"
+msgstr "Característica Premium"
+
+#: inc/wc_settings.php:246
+msgid "In stock"
+msgstr "En stock"
+
+#: inc/wc_settings.php:246
+msgid "out of stock"
+msgstr "agotado"
+
+#: inc/wc_settings.php:246
+msgid ""
+"If this option is selected, plugin will separate in stock and out of stock "
+"items. So items will be grouped as in stock items in one and remaining items "
+"in other order."
+msgstr ""
+"Si se selecciona esta opción, el complemento se separará en los artículos en "
+"stock y fuera de stock. Por lo tanto, los artículos se agruparán como en "
+"artículos en uno y los elementos restantes en otro orden."
+
+#: inc/wc_settings.php:256
+msgid "Select products to enable split order action automatically"
+msgstr ""
+"Seleccionar productos para habilitar la acción de orden dividido "
+"automáticamente"
+
+#: inc/wc_settings.php:265
+msgid "Enable/Disable"
+msgstr "Habilitar deshabilitar"
+
+#: inc/wc_settings.php:266
+msgid "Stock Status"
+msgstr "Estado de Stock"
+
+#: inc/wc_settings.php:267
+msgid "Product Names"
+msgstr "Nombres de productos"
+
+#: inc/wc_settings.php:268
+msgid "Actions"
+msgstr "Comportamiento"
+
+#: inc/wc_settings.php:284
+msgid "In"
+msgstr "En"
+
+#: inc/wc_settings.php:284
+msgid "Out"
+msgstr "Afuera"
+
+#: inc/wc_settings.php:284
+msgid "N/A"
+msgstr "N / A"
+
+#: inc/wc_settings.php:286
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/wc_settings.php:286
+msgid "View"
+msgstr "Ver"
+
+#: inc/wc_settings.php:324 inc/wc_settings.php:328
+msgid "This is a premium feature."
+msgstr "Esta es una característica premium."
+
+#: inc/wc_settings.php:338
+msgid "Order ID"
+msgstr "Solicitar ID"
+
+#: inc/wc_settings.php:339
+msgid "Test"
+msgstr "Prueba"

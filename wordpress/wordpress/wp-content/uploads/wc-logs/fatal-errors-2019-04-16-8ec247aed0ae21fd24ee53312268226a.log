@@ -1,0 +1,10 @@
+2019-04-16T19:39:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded w C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\jetpack\modules\seo-tools\jetpack-seo-utils.php w linii 6
+
+2019-04-16T19:44:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded w C:\xampp\htdocs\wordpress\wordpress\wp-admin\includes\class-core-upgrader.php w linii 356
+
+2019-04-16T19:44:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded w C:\xampp\htdocs\wordpress\wordpress\wp-admin\includes\class-wp-filesystem-direct.php w linii 76
+
+2019-04-16T19:56:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded w C:\xampp\htdocs\wordpress\wordpress\wp-admin\includes\class-wp-filesystem-direct.php w linii 76
+
+2019-04-16T21:01:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded w C:\xampp\htdocs\wordpress\wordpress\wp-admin\includes\class-wp-filesystem-direct.php w linii 76
+
